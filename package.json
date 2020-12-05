@@ -1,0 +1,17 @@
+{
+  "name": "heater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tuyapi/cli": "^1.13.5",
+    "mqtt": "^4.2.6",
+    "newrelic": "^7.0.2",
+    "tuyapi": "github:codetheweb/tuyapi"
+  }
+}
